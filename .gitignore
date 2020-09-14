@@ -3,3 +3,6 @@
 /OUTPUT_MERGED
 
 *.7z
+*.pt
+*.txt
+*.csv
